@@ -3,7 +3,7 @@ cool video games that people enjoy and remember!~ ✨✨✨
 
 i'm learning *javascript* and *lua* for now! ( 06/2023 )
 
-i love game modding and map making, especialy for games like:
+i love game modding and map making for games like:
 - doom (1993) / doom II
 - quake
 - half-life 2
